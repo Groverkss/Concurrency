@@ -1,0 +1,11 @@
+# vscode 
+.vscode
+
+# .log and .aux files for latex
+*.aux
+*.log
+*.toc
+*.out
+
+# Virtual environments
+*.env
